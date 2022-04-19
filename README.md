@@ -34,7 +34,7 @@ Use 'git commit -m "change heading" -m "change description"' in terminal
 
 Use 'git push origin master' in terminal to upload these files to GitHub repo
 
-## To Clone a Repository from GitHub to Local Drive
+## 3. To Clone a Repository from GitHub to Local Drive
 
 Click the Drop Down in the repository on GitHub and copy the link 
 
