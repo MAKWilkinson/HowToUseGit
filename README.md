@@ -1,4 +1,4 @@
-* How to Use Git
+# How to Use Git
 
 If you have created a new local repository and want to upload it to GitHub.
 
@@ -20,7 +20,7 @@ Use 'git remote -v' to confirm your local repository is linked to the newly crea
 
 -------------------------------------------
 
-At this point it is as if you have cloned the file 
+## At this point it is as if you have cloned the file 
 
 -------------------------------------------
 
