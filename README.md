@@ -52,7 +52,9 @@ Use "git checkout -b branchName" in terminal to create a new branch.
 
 Use "git checkout branchName" in terminal to switch between branches.
 
-### 4.1 Option 1 - Merge in Terminal using Git
+## 5. Merging Branches - Making a Pull Request
+
+### 5.1 Option 1 - Merge in Terminal using Git
 
 Use "git diff master" in termianl to see all changes between the master and the branch you are currently in. press "q" in terminal to exit the interface after reviewing.
 
@@ -60,9 +62,11 @@ Change into your master branch using "git checkout master"
 
 Use "git merge" in terminal to merge the two branches.
 
-### 4.2 Option 2 - Push Back up to GitHub
+### 5.2 Option 2 - Push Back up to GitHub
 
 Commit all changes to the new branch using steps above in 2.
 
 Use "git push origin branchName" in terminal to push the branch up. 
+
+A link will then appear in terminal, https://github.com/MAKWilkinson/HowToUseGit/pull/new/branchName, you can follow this which will create a pull request and give the option to merge the branches.
 
