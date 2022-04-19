@@ -44,4 +44,11 @@ Use 'cd HowToUseGit' in terminal to move into your cloned folder.
 
 Repeat steps in Heading 2. to save and reupload your repository to GitHub.
 
+## 3. Creating a Branch
+
+Use "git branch" in terminal to check what branches are available in the current directory 
+
+Use "git checkout -b branchName" to create a new branch
+
+Use "git checkout branchName" to switch between branches.
 
