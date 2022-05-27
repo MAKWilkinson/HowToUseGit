@@ -4,7 +4,7 @@
 
 If you have created a new local repository and want to upload it to GitHub.
 
-use 'cd git/HowToUseGit' from the terminal window to move out of the git directory and into the folder you have created.
+use 'cd git/HowToUseGit' from the terminal window to move into the directory you have created.
 
 Use 'git init' in terminal to initialise the folder when locally created.
 
